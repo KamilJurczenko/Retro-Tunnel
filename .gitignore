@@ -74,4 +74,4 @@ Library/com.unity.addressables/*
 # Keystore
 *.keystore
 
-# Keep sample scenes, scripts and other source tracked.
+.vs/
